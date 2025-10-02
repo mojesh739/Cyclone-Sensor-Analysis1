@@ -1,0 +1,7 @@
+,dtype,% missing,min,max,mean
+Cyclone_Inlet_Gas_Temp,float64,0.0,0.0,1157.63,726.3665981316924
+Cyclone_Material_Temp,float64,0.0,-185.0,1375.0,749.7581057282947
+Cyclone_Outlet_Gas_draft,float64,0.0,-456.66,40.27,-177.5601596263475
+Cyclone_cone_draft,float64,0.0,-459.31,137.39,-164.35954472781427
+Cyclone_Gas_Outlet_Temp,float64,0.0,13.79,1375.0,714.8155834456445
+Cyclone_Inlet_Draft,float64,0.0,-396.37,41.64,-141.0879198133104
